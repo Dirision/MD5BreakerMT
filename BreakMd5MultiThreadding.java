@@ -61,7 +61,7 @@ class BreakThread implements Runnable{
 }
 
 
-public class BreakMd5Hyperthreadding {
+public class BreakMd5MultiThreadding {
 	public static void main(String [] args){
 		// 4 digit numeric password
 		//  echo -n "7723" | md5sum
